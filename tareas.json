@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1759194950839,
+    "texto": "Estudiar Node.js",
+    "completada": true
+  },
+  {
+    "id": 1759194990240,
+    "texto": "Estudiar Node.js",
+    "completada": false
+  },
+  {
+    "id": 1759195494515,
+    "texto": "Hacer la tarea de Node",
+    "completada": false
+  }
+]
